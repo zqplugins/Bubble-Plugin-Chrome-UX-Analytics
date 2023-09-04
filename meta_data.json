@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "0": "web scraping",
+        "1": "productivity",
+        "2": "technical"
+    },
+    "demo_page": "http://ezcodepluginsdemo.bubbleapps.io/chrome_ux_report",
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nSee how well your website performs. Then, get tips to improve your user experience. The Chrome User Experience Report provides user experience metrics fora how real-world Chrome users experience popular destinations on the web.\n\n🔔 Get our 10 Top Plugins Bundle with 10 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- #1 Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- #1 AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone input Number with formatting\n- Advanced Multi Uploader\n- Video player\n- Dynamic Height & Width of Elements\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1593166330001x722982216310597000/chrome_report.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Chrome UX Analytics",
+    "plugin_instructions": "Metrics provided by the public Chrome User Experience Report hosted on Google BigQuery are powered by standard web platform APIs exposed by modern browsers and aggregated to origin-resolution. Site owners that want more detailed (URL level resolution) analysis and insight into their site performance and can use the same APIs to gather detailed real user measurement (RUM) data for their own origins.\n\n#Density score\n - The density property represents the proportion of user experiences within that range. \nhttps://web.dev/lcp/#what-is-lcp\n\nThe start and end properties of the histogram object represent the range of values users experience for the given metric\nRead more about it here:\nhttps://web.dev/chrome-ux-report-api/\n\n\n#Subdomains matter, for example https://developers.google.com and https://www.google.com are considered to be different origins.\n\n\n# Get the API key here:\nhttps://developers.google.com/web/tools/chrome-user-experience-report/api/guides/getting-started#APIKey"
+}
